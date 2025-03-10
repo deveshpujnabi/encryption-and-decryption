@@ -22,7 +22,7 @@ pip install -r requirements.txt
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/encryption-decryption-tool.git
+   git clone https://github.com/deveshpujnabi/encryption-and-decryption.git
    cd encryption-decryption-tool
    ```
 
